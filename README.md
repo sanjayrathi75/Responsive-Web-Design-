@@ -1,4 +1,4 @@
-# web-design-project-1
+# Respnsive Web Design Project
 Bulid using HTML CSS Jquery.
 This website is for a dummy food company but can be used as real one. This site has following features.
 1) fully responsive across all devices.
